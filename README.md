@@ -2,6 +2,8 @@
 
 All programming done in Java language in the NetBeans IDE.
 
+**For FULL details, please see the specifications document**
+
 Movie theater reservation system. 
 
 
