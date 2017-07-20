@@ -1,5 +1,5 @@
-//Carson Lutterloh
-//CS 2336.003
+//cjlutterloh
+//CS 2336
 
 package UserInfoObject;
 
