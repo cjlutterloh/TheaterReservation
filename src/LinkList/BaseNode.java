@@ -1,6 +1,5 @@
 //Carson Lutterloh
-//cjl150530
-//CS 2336.003
+//CS 2336
 
 package LinkList;
 
