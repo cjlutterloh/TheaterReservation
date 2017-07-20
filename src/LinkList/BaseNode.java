@@ -1,4 +1,4 @@
-//Carson Lutterloh
+//cjlutterloh
 //CS 2336
 
 package LinkList;
